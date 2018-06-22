@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExAndroid</string>
+    <string name="thread">Thread</string>
+    <string name="runnable">Runnable</string>
+    <string name="show_details">Show Details</string>
+    <string name="inner_handler">Inner Handler</string>
+    <string name="handler_post">Handler Post</string>
+</resources>
