@@ -1,1 +1,1 @@
-include ':app', ':exhandler', ':exclockview'
+include ':exhandler', ':exclockview', ':exview'

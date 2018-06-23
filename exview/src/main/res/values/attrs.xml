@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExView">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="lightColor" format="color"/>
+        <attr name="darkColor" format="color"/>
+        <attr name="maxRadius" format="integer"/>
+    </declare-styleable>
+</resources>

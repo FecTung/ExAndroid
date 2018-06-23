@@ -6,11 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.fec.ex.exclockview.ExClockView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:darkColor="@color/colorPrimary"
-        app:lightColor="@color/colorAccent"
-        app:backgroundColor="@android:color/white"/>
+    <com.fec.ex.exview.ExView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:lightColor="@color/colorPrimary"
+        app:darkColor="@color/colorAccent"
+        android:padding="8dp"/>
 
 </android.support.constraint.ConstraintLayout>
