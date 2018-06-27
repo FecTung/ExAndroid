@@ -2,4 +2,4 @@
 
 _[**BLOG**](https://fectung.github.io/) 中的部分源码_  
 
-[TAKE A LOOK!](https://fectung.github.io)  
+[TAKE A LOOK!](https://fectong.github.io)  
