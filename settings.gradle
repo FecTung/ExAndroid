@@ -1,1 +1,1 @@
-include ':exhandler', ':exclockview', ':exview'
+include ':exhandler', ':exclockview', ':exview', ':exmaterial2', ':exmaterial2k'
